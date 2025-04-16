@@ -1,0 +1,4 @@
+term name	fg_protein
+PEROXISOMAL PROTEIN IMPORT%REACTOME%R-HSA-9033241.3	"ech1;pex1;slc27a2;pex12;usp9x;acox1;hao1;hsd17b4;pex13;gstk1;acox3;ehhadh;pex6;nudt19;amacr;idh1;acot4;agps;acot8;pex14;pex2;crat;rps27a;pecr;ide;tysnd1;ube2d2;acaa1;ddo;phyh;pex10;agxt;paox;pex7;baat;lonp2;dhrs4;nudt7;gnpat;crot;dao;hmgcl;cat;pipox;scp2;ephx2;hao2;acox2;decr2;hacl1"
+XBP1(S) ACTIVATES CHAPERONE GENES%REACTOME DATABASE ID RELEASE 84%381038	"sult1a3;wfs1;pdia5;yif1a;dctn1;sec31a;hdgf;lmna;tln1;preb;tpp1;add1;srprb;ssr1;dnajc3;dnajb9;gosr2;atp6v0d1;dnajb11;wipi1;hyou1;srpra;acadvl;pdia6;gsk3a;mydgf;gfpt1;arfgap1"
+CALNEXIN CALRETICULIN CYCLE%REACTOME DATABASE ID RELEASE 84%901042	"rnf185;os9;edem2;pdia3;rps27a;edem3;calr;canx;man1b1;sel1l;prkcsh;uggt1;ganab;derl2;amfr"
